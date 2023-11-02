@@ -5,8 +5,8 @@ Path Parameter Also called as URI Parameters
 Path Parameter Can be present anywhere in URL
 Path Parameter Will start with '/' and will be separated by '/' only
 Path Parameter represent value directly
-ex-1 www.ashokit.in/course/{SBMS}
-ex-2 www.ashokit.in/course{SBMS}/trainer/{Vivek}
+ex-1 www.vivektech.in/course/{SBMS}
+ex-2 www.vivekTech.in/course{SBMS}/trainer/{Vivek}
 
 if name doesn't match
 
